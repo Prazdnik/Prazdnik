@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Andrew 👋
+
+## I'm a Husband, Developer and Gymnast!
+
+### Languages and Tools: 
 
 <!--
 **Prazdnik/Prazdnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
