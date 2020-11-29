@@ -1,20 +1,12 @@
 ### Hi there, I'm Andrew 👋
 
-## I'm a Husband, Developer and Gymnast!
+## I'm a Husband, Developer and Sportsman!
 
 ### Languages and Tools: 
+[![C Sharp](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=c-sharp&logoColor=6296cc)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-<!--
-**Prazdnik/Prazdnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=6296cc)](https://t.me/Prazdnichek)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=6296cc)](https://www.facebook.com/pazdnikovandrey)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=6296cc)](https://www.instagram.com/pazdnikov_andrey)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=6296cc)](https://www.linkedin.com/in/pazdnikovandrey)
