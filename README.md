@@ -16,3 +16,5 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=6296cc)](https://www.facebook.com/pazdnikovandrey)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=6296cc)](https://www.instagram.com/pazdnikov_andrey)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=6296cc)](https://www.linkedin.com/in/pazdnikovandrey)
+
+![Prazdnik github stats](https://github-readme-stats.vercel.app/api?username=prazdnik&show_icons=true&theme=buefy)
